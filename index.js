@@ -1,5 +1,5 @@
 'use strict';
-var parseMs = require('parse-ms');
+// commented out by npm-component: var parseMs = require('parse-ms');
 
 function add(ret, val, postfix) {
 	if (val > 0) {
